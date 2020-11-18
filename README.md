@@ -1,1 +1,0 @@
-Useful code snippets for python and R
